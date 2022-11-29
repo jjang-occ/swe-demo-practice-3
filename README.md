@@ -41,4 +41,7 @@ Let's try another kind of list
 - item B
 - item C
 
+# New Feature
+This is a new feature. Cool, eh?
+
 That's all folks!
