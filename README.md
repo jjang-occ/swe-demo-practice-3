@@ -28,6 +28,8 @@ int main()
    cout << "hello" << endl;
    cout << "I added this line locally " << endl;
    cout << "I added this line locally again" << endl;
+   cout << "I added this line remotely" << endl;
+   cout << "And other people made changes too" << endl;
    return 0;
 }
 ```
