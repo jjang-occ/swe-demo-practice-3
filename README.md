@@ -44,5 +44,6 @@ Let's try another kind of list
 # New Feature
 This is a new feature. Cool, eh?
 Here are more cool feature changes.
+Super cool!
 
 That's all folks!
